@@ -8,8 +8,8 @@ The repository contains laboratory work covering network configuration, cable co
 
 | Field | Details |
 |---|---|
-| **Name** | Aayush Anand |
-| **Roll Number** | 241210004 |
+| **Name** | ARYAN VERMA|
+| **Roll Number** | 241210026 |
 | **Programme** | B.Tech in Computer Science and Engineering |
 | **Year / Semester** | 3rd Year / 5th Semester |
 | **Course** | Computer Networks |
@@ -75,8 +75,8 @@ This laboratory work was completed as part of the Computer Networks course. I wo
 
 <div align="center">
 
-**Aayush Anand**  
-**Roll Number: 241210004**  
+**aryan verma** 
+**241210026**
 **Computer Networks Laboratory | 3rd Year | 5th Semester**
 
 </div>
